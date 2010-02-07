@@ -6,6 +6,7 @@ Test 1
 
 ### Step 1 ###
 
+
 #### Tests
 
     class TestGame < Test::Unit::TestCase
